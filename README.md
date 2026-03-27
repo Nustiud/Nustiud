@@ -2,7 +2,7 @@
 
 
 **Nustiud/Nustiud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Vanea 👋
 
 - 🔭 I’m currently working on **CEITI** – *a software project focused on optimizing database management for enterprise applications.*
 - 🌱 I’m currently learning **[Nim](https://nim-lang.org/)** – *a statically typed language known for its simplicity and speed.*
